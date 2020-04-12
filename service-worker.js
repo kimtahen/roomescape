@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/roomescape/precache-manifest.a048d6005af704b1db1bf3e742b4cc2f.js"
+  "/roomescape/precache-manifest.37eaf00b8edd8af3aa2b8455768c19f0.js"
 );
 
 self.addEventListener('message', (event) => {
